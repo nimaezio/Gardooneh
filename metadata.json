@@ -1,0 +1,7 @@
+{
+  "name": "QCommerce Gamification Hub",
+  "description": "A high-fidelity RTL gamification dashboard for quick commerce platforms featuring leaderboards, daily missions, reward redemption, and a wheel of fortune.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
